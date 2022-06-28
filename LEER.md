@@ -1,2 +1,2 @@
 # PRACTICA2
-# adicion de archivos
+# adicion de archivos para el proyecto
